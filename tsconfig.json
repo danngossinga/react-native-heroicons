@@ -9,7 +9,7 @@
     "moduleResolution": "NodeNext",
     "allowSyntheticDefaultImports": true,
     "target": "esnext",
-    "module": "commonjs",
+    "module": "NodeNext",
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
     "noImplicitUseStrict": false,
